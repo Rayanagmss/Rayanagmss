@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/173968372?s=400&u=a476e08854a422706767913d54a6643a56841429&v=4" width="200" alt="Rayana Gomes">
+  <img src="https://discord.com/channels/1328173287712231604/1328377699227537462/1346574333593649242" width="200" alt="Rayana Gomes">
 </p>
 
 <h1 align="center"> Olá, eu sou a Rayana Gomes! ✨</h1>
