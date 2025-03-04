@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/professional-it-specialist-demonstrating-advanced-computer-skills_999671-90320.jpg?semt=ais_hybrid" width="1000" alt="Rayana Gomes">
+  <img src="https://img.freepik.com/premium-vector/professional-it-specialist-demonstrating-advanced-computer-skills_999671-90320.jpg?semt=ais_hybrid" width="500" alt="Rayana Gomes">
 </p>
 
 <h1 align="center"> Olá, eu sou a Rayana Gomes! ✨</h1>
