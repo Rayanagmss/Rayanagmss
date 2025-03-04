@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/professional-it-specialist-demonstrating-advanced-computer-skills_999671-90320.jpg?semt=ais_hybrid" width="500" alt="Rayana Gomes" style="border-top-left-radius: 50px; border-bottom-right-radius: 50px;">
+  <img src="https://img.freepik.com/premium-vector/professional-it-specialist-demonstrating-advanced-computer-skills_999671-90320.jpg?semt=ais_hybrid" width="500" alt="Rayana Gomes">
 </p>
+
+<style>
+  img {
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+</style>
 
 <h1 align="center"> Olá, eu sou a Rayana Gomes! 🌸</h1>
 
