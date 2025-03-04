@@ -39,10 +39,7 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes. Sinta-se à 
 
 ## 📫 Como entrar em contato
 
-- **LinkedIn**: [Rayan Aguiar](https://www.linkedin.com/in/rayanagmss)
-- **Email**: rayanagmss@example.com
-- **Twitter**: [@RayanAguiar](https://twitter.com/RayanAguiar)
-
+- **Email**: rayanalimag@gmail.com
 ---
 
 > "A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
