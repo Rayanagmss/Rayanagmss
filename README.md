@@ -1,33 +1,31 @@
-<p align="center">
-  <img src="https://img.freepik.com/premium-vector/professional-it-specialist-demonstrating-advanced-computer-skills_999671-90320.jpg?semt=ais_hybrid" width="500" alt="Rayana Gomes">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Olá! Eu sou a Rayana Gomes, estudante de Sistemas de Informação e apaixonada por tecnologia e design! 
+  Atualmente, estou sempre buscando aprender mais e aprimorar minhas habilidades no desenvolvimento de software. 
 </p>
 
+<p align="left">
+  🦄 <strong>Linguagens:</strong> HTML, CSS, JavaScript, SQL, Python.
+</p>
 
-<h1 align="center"> Olá, eu sou a Rayana Gomes! 🌸</h1>
+<p align="left">
+  💼 <strong>Ferramentas:</strong> Figma, GitHub.
+</p>
 
-<p align="center">
-  <b>Estudante de Sistemas de Informação | Apaixonada por tecnologia e design!</b>
+<p align="left">
+  💌 <strong>Contato:</strong> Entre em contato comigo pelos links abaixo! ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:rayanalimag@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/rayana-gomes-623893267/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Rayanagmss" title="GitHub">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
 </p>
 
 ---
 
-### 📚 Sobre mim:
-- 🌟 Tenho 19 anos e sou estudante de **Sistemas de Informação**
-- 📝 Buscando sempre aprender mais e aprimorar minhas habilidades!
-- 💌 Contato: **rayanalimag@gmail.com**
-
-### 💻 Tecnologias que conheço:
-- **Front-end:** HTML, CSS, JavaScript
-- **Banco de Dados:** SQL
-- **Back-end & Outros:** Python
-- **Design & Prototipagem:** Figma
-
-### 🌟 Conecte-se comigo:
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rayanagmss)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-gomes-623893267/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayanagmss&theme=dark&show_icons=true)
-
----
-
-<h3 align="center"> 🌸 Obrigada por visitar meu perfil! 🌸</h3>
+<h3 align="center">🌸 Obrigada por visitar meu perfil! 🌸</h3>
