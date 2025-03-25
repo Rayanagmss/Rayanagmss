@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas:</strong> Figma, GitHub.
+  💼 <strong>Ferramentas:</strong> Figma, GitHub, Git.
 </p>
 
 <p align="left">
