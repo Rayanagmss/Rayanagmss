@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+![](https://komarev.com/ghpvc/?username=Rayanagmss&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Rayanagmss&countColorcountColor&countColor=%232979ff) !GitHub followers
 <p align="left"> 
   Olá! Eu sou a Rayana Gomes, estudante de Sistemas de Informação e apaixonada por tecnologia e design! 
   Atualmente, estou sempre buscando aprender mais e aprimorar minhas habilidades no desenvolvimento de software. 
