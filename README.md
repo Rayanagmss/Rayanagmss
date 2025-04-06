@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Eu sou a Rayana Gomes, estudante de Sistemas de Informação e apaixonada por tecnologia e design! 
+  Olá! Eu sou a Rayana Gomes, estudante de Sistemas de Informação, quero usar a tecnologia pra conquistar liberdade: de tempo, de lugar, de escolha. E tô construindo isso um passo de cada vez 
   Atualmente, estou sempre buscando aprender mais e aprimorar minhas habilidades no desenvolvimento de software. 
 </p>
 
