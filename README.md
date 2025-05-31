@@ -6,14 +6,6 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> HTML, CSS, JavaScript, SQL, Python.
-</p>
-
-<p align="left">
-  💼 <strong>Ferramentas:</strong> Figma, GitHub, Git.
-</p>
-
-<p align="left">
   💌 <strong>Contato:</strong> Entre em contato comigo pelos links abaixo! ⤵️
 </p>
 
